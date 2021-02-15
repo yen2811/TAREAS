@@ -1,0 +1,15 @@
+var mes = 10; 
+if (mes > 3 || 5){
+  alert ('La epoca del año es Primavera.');
+} if (mes > 6 || 8 ) {
+  alert ('La epoca del año es Verano.')
+}
+if (mes > 9 || mes < 11) {
+  alert ('La epoca del año es Otoño.')
+} if (mes > 2 && mes < 12) {
+  alert ('La epoca del año es Invierno.')
+}
+if (mes == 10) {
+  alert ('YENDI MISHEL IPIÑA CORADO')
+  alert ('No. Carnet: 21003049 ')
+} 
